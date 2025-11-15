@@ -9,7 +9,6 @@ namespace OOP_project
     internal class Customer
     {
         public string phoneNumber;
-        public int[] cart;
         public static int sizeOfCart;
 
         public static int customerId;
